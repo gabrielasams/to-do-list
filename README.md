@@ -3,7 +3,7 @@
 _Read this in other languages:_  
 [_English_](./translations/README-EN.md)  
 
-![license mit](https://img.shields.io/badge/license-MIT-blue.svg)  ![status](https://img.shields.io/badge/status-em progresso-green)  
+![license mit](https://img.shields.io/badge/license-MIT-blue.svg)  ![status](https://img.shields.io/badge/status-em-progresso-green)  
 
 <details>
   <summary><b>Conteúdo</b></summary>
@@ -33,12 +33,15 @@ _Read this in other languages:_
 
 <h2 id="about-the-project"><p align="center">Sobre o Projeto</p></h2>
 
-Este aplicativo é um recurso de lista de tarefas, e foi desenvolvido em [HTML](), [CSS]() e [JavaScript](). Permite que o usuário planeje e gerencie suas tarefas, para economizar esforço em escala e adotar boas práticas de gerenciamento de tempo. Requisito para aprovação no curso [_Fundamentos de Desenvolvimento Web_](https://ticemtrilhas.org.br/trail/713928c5-e450-4ee1-8d30-c01091ca3b79), da [TIC em trilhas](https://ticemtrilhas.org.br).
+Este aplicativo é um recurso de lista de tarefas, e foi desenvolvido em [HTML](https://www.w3schools.com/html/default.asp), [CSS](https://www.w3schools.com/css/default.asp) e [JavaScript](https://www.w3schools.com/js/default.asp). Permite que o usuário planeje e gerencie suas tarefas, para economizar esforço em escala e adotar boas práticas de gerenciamento de tempo. Requisito para aprovação no curso [_Fundamentos de Desenvolvimento Web_](https://ticemtrilhas.org.br/trail/713928c5-e450-4ee1-8d30-c01091ca3b79), da [TIC em trilhas](https://ticemtrilhas.org.br).
 
 <p align="right">(<a href="#readme-top">voltar ao início</a>)</p>
 
 <h3 id="features">Funcionalidades</h3>
 
+1. **Listar o que quer fazer:** O recurso deve adicionar uma tarefa na lista através de uma caixa de texto com botão.
+2. **Visualizar as tarefas:** O recurso deve mostrar todas as tarefas adicionadas na lista.
+3. **Riscar o que se concluiu:** O recurso deve permitir que o usuário risque uma tarefa concluída.
 
 <p align="right">(<a href="#readme-top">voltar ao início</a>)</p>
 
@@ -52,7 +55,7 @@ Este aplicativo é um recurso de lista de tarefas, e foi desenvolvido em [HTML](
 1. No Terminal, clone o repositório: 
 
    ```bash
-        git clone https://github.com/gabrielasams/a-lista-de-compras.git
+        git clone https://github.com/gabrielasams/to-do-list.git
    ```
 2. Abra a pasta com os arquivos do repositório na IDE recomendada.
 3. Execute no Terminal da própria IDE.
