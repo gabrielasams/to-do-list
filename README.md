@@ -3,7 +3,7 @@
 _Read this in other languages:_  
 [_English_](./translations/README-EN.md)  
 
-![license mit](https://img.shields.io/badge/license-MIT-blue.svg)  ![status](https://img.shields.io/badge/status-em-progresso-green)  
+![license mit](https://img.shields.io/badge/license-MIT-blue.svg)  ![status](https://img.shields.io/badge/status-progresso-green)  
 
 <details>
   <summary><b>Conteúdo</b></summary>
